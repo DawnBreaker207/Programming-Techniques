@@ -1,0 +1,12 @@
+*.dev
+
+*.layout
+*.win
+
+*.o
+*.obj
+
+*.exe
+
+*.bak
+
