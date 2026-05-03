@@ -1,0 +1,10 @@
+3
+Tin hoc dai cuong
+NXB GTVT
+30000
+Cong Nghe Java
+NXB KHKT
+45000
+Cau truc du lieu va giai thuat
+NXB GD
+35000
