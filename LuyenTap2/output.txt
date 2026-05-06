@@ -1,0 +1,4 @@
+So luong sach: 3
+2004  | Sach Khoa Hoc Cong Nghe  |1000000.00
+2008  | Sach Dia Ly  |2500000.00
+2014  | Sach Lich Su  |400000.00
